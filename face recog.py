@@ -10,7 +10,7 @@ faceCascade = cv2.CascadeClassifier(cascadePath);
 font = cv2.FONT_HERSHEY_SIMPLEX
 
 #iniciate id counter, the number of persons you want to include
-id = 3 #two persons 
+id = 3 #three persons 
 
 
 names = ['','Anurag','shreyash','ishika','ajay']  #key in names, start from the second place, leave first empty
